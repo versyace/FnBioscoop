@@ -1,20 +1,20 @@
 # FnBioscoop
 
-**FnBioscoop** adalah aplikasi Android berbasis Java/Kotlin yang dirancang untuk mempermudah pemesanan makanan dan minuman (*Food & Beverage*) di bioskop secara digital.
+**FnBioscoop** adalah aplikasi Android berbasis Kotlin yang dirancang untuk mempermudah pemesanan makanan dan minuman (*Food & Beverage*) di bioskop secara digital.
 
 ---
 
 ## Fitur Utama
 
-* **Katalog Menu:** Menampilkan daftar makanan, minuman, dan paket combo bioskop.
-* **Pemesanan F&B:** Memudahkan pengguna memilih dan memesan menu sebelum atau saat menonton.
-* **Ringkasan Pesanan:** Menampilkan detail item dan total harga sebelum pembayaran.
+* **Katalog Menu:** Menampilkan daftar makanan dan minuman yang tersedia
+* **Pemesanan F&B:** Memudahkan pengguna memilih dan memesan menu sebelum menonton.
+* **Ringkasan Pesanan:** Menampilkan detail pesanan beserta total harga sebelum pembayaran.
 
 ---
 
 ## Teknologi & Tools
 
-* **Bahasa Pemrograman:** Kotlin / Java
-* **Platform:** Android SDK
-* **Build System:** Gradle (v8.13)
+* **Bahasa Pemrograman:** Kotlin
+* **Platform:** Android Native
+* **Build System:** Gradle (Kotlin DSL)
 * **IDE:** Android Studio
