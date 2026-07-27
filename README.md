@@ -23,6 +23,8 @@
 
 ## Screenshots
 
-<img width="1080" height="2400" alt="Halaman_Menu" src="https://github.com/user-attachments/assets/74813fdd-4906-455a-ab4c-d34416ebc387" />
-<img width="1080" height="2400" alt="Halaman_Pesanan" src="https://github.com/user-attachments/assets/bc3fd668-c422-4a12-b574-5dc3a0e70584" />
-<img width="1080" height="2400" alt="Dashboard_Admin" src="https://github.com/user-attachments/assets/46715ad6-4f0e-47b0-939d-b9c896147311" />
+<p align="center">
+  <img width="200" alt="Halaman Menu" src="https://github.com/user-attachments/assets/74813fdd-4906-455a-ab4c-d34416ebc387" />
+  <img width="200" alt="Halaman Pesanan" src="https://github.com/user-attachments/assets/bc3fd668-c422-4a12-b574-5dc3a0e70584" />
+  <img width="200" alt="Dashboard Admin" src="https://github.com/user-attachments/assets/46715ad6-4f0e-47b0-939d-b9c896147311" />
+</p>
