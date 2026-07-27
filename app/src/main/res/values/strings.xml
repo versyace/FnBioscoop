@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FNBioscoop</string>
+    <string name="daftar_menu">Daftar Menu</string>
+    <string name="tambah">Tambah</string>
+    <string name="pesan_sekarang">Pesan Sekarang</string>
+    <string name="ringkasan_pesanan">Ringkasan Pesanan</string>
+    <string name="selesaikan_pembayaran">Selesaikan Pembayaran</string>
+    <string name="total">Total</string>
+    <string name="pilih_pembayaran">Pilih Metode Pembayaran</string>
+    <string name="detail_pembayaran">Detail Pembayaran</string>
+    <string name="bayar">Bayar</string>
+    <string name="berhasil">Pembayaran Berhasil!</string>
+</resources>

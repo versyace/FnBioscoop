@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tix.id inspired: Blue + Golden + Brown -->
+    <color name="primary">#1A3C6E</color>          <!-- Deep Blue (tix.id nav/header) -->
+    <color name="primary_dark">#0F2548</color>      <!-- Darker Blue -->
+    <color name="primary_light">#D6E4F7</color>     <!-- Light Blue tint -->
+    <color name="accent">#F5A623</color>            <!-- Golden Yellow -->
+    <color name="golden">#F5A623</color>            <!-- Golden Yellow -->
+    <color name="golden_dark">#E0941A</color>       <!-- Darker Gold -->
+    <color name="brown">#6D4C41</color>             <!-- Warm Brown accent -->
+    <color name="brown_light">#EFEBE9</color>       <!-- Light brown bg -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#1A1A2E</color>
+    <color name="grey_light">#F0F4FA</color>
+    <color name="grey">#90A4AE</color>
+    <color name="text_primary">#1A3C6E</color>      <!-- Blue for titles -->
+    <color name="text_secondary">#5C7A9F</color>    <!-- Muted blue-grey -->
+    <color name="divider">#D0DFF0</color>
+    <color name="success">#27AE60</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="bg">#FFFBF7</color>                <!-- Light blue-grey background -->
+    <color name="status_unpaid">#E53935</color>     <!-- Red for belum dibayar -->
+</resources>
